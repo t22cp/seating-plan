@@ -1,0 +1,5 @@
+{
+  "name": "Seating Plan",
+  "description": "Intelligent classroom seating planner using Gemini API to organize student lists into customizable grid layouts with pairing support.",
+  "requestFramePermissions": []
+}
